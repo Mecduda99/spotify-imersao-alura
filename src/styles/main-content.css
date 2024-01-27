@@ -108,14 +108,14 @@
   }
   
   .playlist #greeting {
-    color: #fff;
+    color: #d6d6d6;
     font-size: 32px;
     font-weight: 700;
     margin-bottom: 48px;
   }
   
   .playlist .session {
-    color: #fff;
+    color: #d6d6d6;
     font-size: 24px;
     font-weight: 700;
   }
@@ -146,8 +146,8 @@
   
     /* CODIGO COM JS CALCULANDO OS CARDS POR COLUNA */
     display: grid;
-    gap: 16px;
-    grid-gap: 32px;
+    /* gap: 16px; */
+    /* grid-gap: 32px; */
     margin: 0 auto;
   }
   
@@ -162,7 +162,7 @@
   .cards span {
     padding: 16px;
     position: absolute;
-    color: #fff;
+    color: #d6d6d6;
     font-size: 24px;
     font-weight: 700;
   }
